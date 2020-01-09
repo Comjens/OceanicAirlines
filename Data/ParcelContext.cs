@@ -25,6 +25,11 @@ namespace OceanicAirlines.Data
             modelBuilder.Entity<RouteModel>().ToTable("Route");
             modelBuilder.Entity<LocationModel>().ToTable("Location");
         }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer(@"Data Source=dbs-oapl.database.windows.net;User Id=dbs-oapl;password=oceanicFlyAway16;Initial Catalog=db-oapl201911;");
+        }
     }
 }
 
