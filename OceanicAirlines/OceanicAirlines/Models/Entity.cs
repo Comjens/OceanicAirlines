@@ -11,7 +11,7 @@ namespace OceanicAirlines.Model
 
         public String Name { get; set; }
 
-        public DateTime CreatededTime { get; set; }
+        public DateTime CreatedTime { get; set; }
 
         public DateTime UpdatedTime { get; set; }
     }
