@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines.csproj",
+      "projectUniqueName": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines.csproj",
       "projectName": "OceanicAirlines",
-      "projectPath": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines.csproj",
+      "projectPath": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines.csproj",
       "packagesPath": "C:\\Users\\TBT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\OceanicAirlines\\obj\\",
+      "outputPath": "C:\\Users\\TBT\\Documents\\CES\\OceanicAirlines\\OceanicAirlines\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
