@@ -1,6 +1,6 @@
 ﻿namespace OceanicAirlines.Model
 {
-    public class ShipmentType : Entity
+    public class ShipmentTypeModel : Entity
     {
         public string Type { get; set; }
 

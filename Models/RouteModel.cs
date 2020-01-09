@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace OceanicAirlines.Model
 {
-    public class Route : Entity
+    public class RouteModel : Entity
     {
-        public Location From { get; set; }
+        public LocationModel From { get; set; }
 
-        public Location To { get; set; }
+        public LocationModel To { get; set; }
 
         public  double Duration { get; set; }
 

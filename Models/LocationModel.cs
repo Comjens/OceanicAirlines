@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace OceanicAirlines.Model
 {
-    public class Location : Entity
+    public class LocationModel : Entity
     {
         public double Longitude { get; set; }
 
